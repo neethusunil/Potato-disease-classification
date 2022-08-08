@@ -7,7 +7,11 @@ Farmers every year face economic loss and crop waste due to various diseases in 
 Technology stack for this project will be,
 
 Model Building: tensorflow, CNN, data augmentation, tf dataset
+
 Backend Server and ML Ops: tf serving, FastAPI
+
 Model Optimization: Quantization, Tensorflow lite
+
 Frontend: React JS, React Native
+
 Deployment: GCP (Google cloud platform, GCF (Google cloud functions)
